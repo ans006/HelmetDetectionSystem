@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 # 🛡️ Helmet Detection System using YOLOv5
 
 This project detects whether a person is wearing a helmet or not using real-time webcam video and a YOLOv5 object detection model.
