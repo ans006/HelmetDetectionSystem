@@ -19,13 +19,13 @@ Install dependencies using:
 pip install -r requirements.txt
 
 
-🚀 How to Run
+## 🚀 How to Run
 python helmet_detect.py
 
-🧠 Model
+## 🧠 Model
 The model is trained on a custom dataset with YOLOv5. Replace best.pt with your own trained weights.
 
-📂 Project Structure
+## 📂 Project Structure
 
 HelmetDetectionSystem/
 ├── yolov5/               # YOLOv5 models and utils
@@ -35,16 +35,16 @@ HelmetDetectionSystem/
 ├── README.md
 └── LICENSE
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 
-🌟 Future Plans
+## 🌟 Future Plans
 Upload violations to server
 Add SMS/Email alerts
 Add helmet color classification
 
-👩‍💻 Author
+## 👩‍💻 Author
 Developed by Arpita N Sheelvanth
 Final Year B.E. – Information Science & Engineering
 Passionate about AI, Computer Vision, and Full-Stack Development.
