@@ -1,3 +1,4 @@
+![Preview](https://img.shields.io/badge/YOLOv5-Helmet%20Detection-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
@@ -15,17 +16,35 @@ This project detects whether a person is wearing a helmet or not using real-time
 ## 📦 Requirements
 
 Install dependencies using:
-
-```bash
 pip install -r requirements.txt
 
+
 🚀 How to Run
-bash
-Copy
-Edit
 python helmet_detect.py
+
 🧠 Model
 The model is trained on a custom dataset with YOLOv5. Replace best.pt with your own trained weights.
 
+📂 Project Structure
+
+HelmetDetectionSystem/
+├── yolov5/               # YOLOv5 models and utils
+├── helmet_data/          # Training images and labels
+├── requirements.txt
+├── helmet_detect.py      # Main script
+├── README.md
+└── LICENSE
+
+📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+
+🌟 Future Plans
+Upload violations to server
+Add SMS/Email alerts
+Add helmet color classification
+
 👩‍💻 Author
 Developed by Arpita N Sheelvanth
+Final Year B.E. – Information Science & Engineering
+Passionate about AI, Computer Vision, and Full-Stack Development.
